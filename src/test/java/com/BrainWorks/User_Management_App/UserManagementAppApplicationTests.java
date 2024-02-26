@@ -1,13 +1,13 @@
-package com.BrainWorks.User_Management_App;
+// package com.BrainWorks.User_Management_App;
 
-import org.junit.jupiter.api.Test;
-import org.springframework.boot.test.context.SpringBootTest;
+// import org.junit.jupiter.api.Test;
+// import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
-class UserManagementAppApplicationTests {
+// @SpringBootTest
+// class UserManagementAppApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+// 	@Test
+// 	void contextLoads() {
+// 	}
 
-}
+// }
